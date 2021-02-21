@@ -8,7 +8,7 @@ title:               'Humane Being'
 tagline:             ''
 description:         'A blog about human factors in user experience engineering'
 url:                 http://humanebeing.org
-baseurl:             ''
+baseurl:             'https://jamespeilunli.github.io/humanebeing/'
 paginate:            5
 
 # About/contact
