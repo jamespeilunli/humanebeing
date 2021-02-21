@@ -4,18 +4,18 @@
 permalink:           :year/:month/:day/:title.html
 
 # Setup
-title:               'Humane Being'
+title:               "James' new blog"
 tagline:             ''
-description:         'A blog about human factors in user experience engineering'
+description:         'A blog'
 url:                 'https://jamespeilunli.github.io/humanebeing/'
 baseurl:             '/humanebeing'
 paginate:            5
 
 # About/contact
 author:
-  name:              Daniel Miller
-  url:               http://danielsjourney.com
-  email:             dealingwith@gmail.com
+  name:              James
+  url:               
+  email:             
 
 # Custom vars
 version:             1.0.0
